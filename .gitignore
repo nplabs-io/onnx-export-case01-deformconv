@@ -1,0 +1,8 @@
+﻿weights/
+outputs/
+kit_runs/
+__pycache__/
+.venv/
+*.onnx
+*.pt
+*.pth
